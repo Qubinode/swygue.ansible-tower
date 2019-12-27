@@ -1,0 +1,4 @@
+---
+# vars file for swygue.ansible-tower
+tower_already_installed: no
+tower_install_complete: no
